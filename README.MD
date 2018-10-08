@@ -21,6 +21,7 @@ files in the lib/ directory.
   > ant deploy-mvn-local 
   
 will generate maven directory in ./mvn/...
+With a dependency to xerces
 
 ## Documentation
 

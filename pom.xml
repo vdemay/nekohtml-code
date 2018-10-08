@@ -4,7 +4,7 @@
   <artifactId>nekohtml</artifactId>
   <name>Neko HTML</name>
   <description>An HTML parser and tag balancer.</description>
-  <version>1.9.22.p1</version>
+  <version>1.9.22.p2</version>
   <url>https://github.com/vdemay/nekohtml-code/</url>
   <licenses>
     <license>
@@ -24,6 +24,9 @@
     </dependency>
   </dependencies>
     <developers>
+        <developer>
+            <name>Vincent Demay</name>
+        </developer>
         <developer>
             <name>Andy Clark</name>
         </developer>
